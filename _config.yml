@@ -14,9 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: en-US
-title: My Awesome Site
-email:
-description:
+title: Subin's vlog
+email: subin9227@gmail.com
+description: "생존일기"
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: https://subin9227.github.io
 author:
